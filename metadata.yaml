@@ -5,6 +5,9 @@ contributor:
     agent_name: Maw, George
     gutenberg_agent_id: '55871'
     url: http://www.gutenberg.org/2009/agents/55871
+covers:
+- cover_type: archival
+  image_path: 70700-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Ball, John
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2060
     wikipedia: https://en.wikipedia.org/wiki/Joseph_Dalton_Hooker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70700#Journal-of-a-tour-in-Marocco-and-the-Great-Atlas
 gutenberg_issued: '2023-05-04'
 identifiers:
   gutenberg: '70700'
